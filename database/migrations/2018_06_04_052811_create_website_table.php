@@ -17,7 +17,7 @@ class CreateWebsiteTable extends Migration
             $table->increments('id');
             $table->string('title');
             $table->string('subtitle');
-            $table->string('footer'); 
+            $table->string('footer');
         });
     }
 
