@@ -2,6 +2,8 @@
 
 @section('title', 'Home Edit') 
 
+@section('nav_home', 'active')
+
 @section('content')
 
 <div class="container">

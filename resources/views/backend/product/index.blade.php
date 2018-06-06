@@ -1,6 +1,11 @@
 @extends('backend.layouts.master') 
+
 @section('title', 'Product List') 
+
+@section('nav_products', 'active')
+
 @section('content')
+
 <div class="container">
     <section class="page-section my-5 p-5">
         <div class="row">

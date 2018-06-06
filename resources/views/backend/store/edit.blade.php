@@ -2,6 +2,8 @@
 
 @section('title', 'Store Edit') 
 
+@section('nav_store', 'active')
+
 @section('content')
 
 <div class="container">

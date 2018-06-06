@@ -2,6 +2,8 @@
 
 @section('title', 'About Edit') 
 
+@section('nav_about', 'active')
+
 @section('content')
 
 <div class="container">

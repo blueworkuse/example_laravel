@@ -2,6 +2,8 @@
 
 @section('title', 'Product Edit') 
 
+@section('nav_products', 'active')
+
 @section('content')
 
 <div class="container">
