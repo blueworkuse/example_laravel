@@ -14,6 +14,7 @@
         <div class="col-xl-9 col-lg-10 mx-auto">
           <div class="bg-faded rounded p-5">
             {!! $about->content !!}
+          </div>
         </div>
       </div>
     </div>

@@ -6,7 +6,7 @@
 <section class="page-section clearfix">
   <div class="container">
     <div class="intro">
-    <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="{{ asset('/uploads/home/' . $home->image) }}" alt="">
+      <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="{{ asset('/uploads/home/' . $home->image) }}" alt="">
       <div class="intro-text left-0 text-center bg-faded p-5 rounded">
         {!! $home->content_1 !!}
         <div class="intro-button mx-auto">
